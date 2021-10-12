@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/unsur-kimia-db/static/css/main.b8b76056.chunk.css",
+    "main.js": "/unsur-kimia-db/static/js/main.b5b84a8b.chunk.js",
+    "main.js.map": "/unsur-kimia-db/static/js/main.b5b84a8b.chunk.js.map",
+    "runtime-main.js": "/unsur-kimia-db/static/js/runtime-main.0fa2691f.js",
+    "runtime-main.js.map": "/unsur-kimia-db/static/js/runtime-main.0fa2691f.js.map",
+    "static/js/2.53f6e80e.chunk.js": "/unsur-kimia-db/static/js/2.53f6e80e.chunk.js",
+    "static/js/2.53f6e80e.chunk.js.map": "/unsur-kimia-db/static/js/2.53f6e80e.chunk.js.map",
+    "index.html": "/unsur-kimia-db/index.html",
+    "static/css/main.b8b76056.chunk.css.map": "/unsur-kimia-db/static/css/main.b8b76056.chunk.css.map",
+    "static/js/2.53f6e80e.chunk.js.LICENSE.txt": "/unsur-kimia-db/static/js/2.53f6e80e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fa2691f.js",
+    "static/js/2.53f6e80e.chunk.js",
+    "static/css/main.b8b76056.chunk.css",
+    "static/js/main.b5b84a8b.chunk.js"
+  ]
+}
