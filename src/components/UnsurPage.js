@@ -37,7 +37,7 @@ const UnsurPage = () => {
             <section className="UnsurBody">
                 <div><p>Nomor Atom</p> <p>{unsur.nomorAtom}</p></div>
                 <div><p>Massa Atom</p> <p>{unsur.massaAtom}</p></div>
-                <div><p>Tingkat Oksidasi</p> <p>{unsur.tingkatOksidasi}</p></div>
+                <div><p>Tingkat Oksidasi (Konfigurasi elektron)</p> <p>{unsur.tingkatOksidasi}</p></div>
                 <div><p>Titik didih C</p> <p>{unsur.titikDidih}&deg; C</p></div>
                 <div><p>Titik leleh</p> <p>{unsur.titikLeleh}&deg; C</p></div>
                 <div><p>Massa jenis</p> <p>{unsur.massaJenis} (g/m) (3)</p></div>

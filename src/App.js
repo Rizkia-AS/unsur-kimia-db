@@ -19,7 +19,7 @@ function App() {
           </Switch>
       </DataProvider>
       </main>
-      <CustFooter innerText="rizkia-as.github.id"/>
+      <CustFooter innerText="rizkia-as.github.io"/>
     </div>
   );
 }
